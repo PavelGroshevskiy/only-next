@@ -1,0 +1,32 @@
+.top {
+  padding: 13.6rem 8rem 12.5rem 8rem;
+  display: flex;
+  color: black;
+}
+.top-left {
+  width: 48rem;
+  font-size: 4.7rem;
+  line-height: 150%;
+  font-weight: 300;
+}
+.top-right {
+  width: 120rem;
+  padding-top: 2.2rem;
+  font-size: 2.5rem;
+  line-height: 160%;
+  font-weight: 300;
+}
+.bottom {
+  display: flex;
+  color: #101010;
+}
+.bottom-left {
+  width: 88rem;
+}
+.bottom-right {
+  padding-left: 8rem;
+  padding-right: 8rem;
+  font-weight: 300;
+  font-size: 1.8rem;
+  line-height: 180%;
+}
